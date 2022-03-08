@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  padding-top: 20vh;
 }
 
 .App-logo {
@@ -35,4 +36,15 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.container {
+  width: 250px;
+  height: 250px;
+  border: 1px solid #61dafb;
+}
+
+.bar {
+  fill: #0ab7e7;
 }
